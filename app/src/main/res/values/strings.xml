@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Burned Calories Calculator</string>
+    <string name="weightLabel">weightLabel</string>
+    <string name="milesRunLabel">milesRunLabel</string>
+    <string name="weightEditText">weight</string>
+    <string name="nameEditText">name</string>
+    <string name="nameTextView">Name</string>
+</resources>
